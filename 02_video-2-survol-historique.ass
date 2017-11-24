@@ -185,8 +185,8 @@ Dialogue: 4,0:05:16.80,0:05:19.14,WesternFont,,0,0,0,,{\fad(200,200)}C'est juste
 Dialogue: 3,0:05:16.80,0:05:19.14,Yahei-1280x720,,0,0,0,,{\fad(200,200)}这正是伽罗瓦理论要解决的问题
 Dialogue: 4,0:05:19.31,0:05:23.99,WesternFont,,0,0,0,,{\fad(200,200)}qui va nous expliquer de façon très approfondie le résultat d'Abel
 Dialogue: 3,0:05:19.31,0:05:23.99,Yahei-1280x720,,0,0,0,,{\fad(200,200)}它能为我们深入地解释阿贝尔的结果
-Dialogue: 4,0:05:23.99,0:05:30.93,WesternFont,,0,0,0,,{\fad(200,200)}et pourquoi le polynôme X5-2 a des racines qu'on peut exprimer à l'aide de radicaux,
-Dialogue: 3,0:05:23.99,0:05:30.93,Yahei-1280x720,,0,0,0,,{\fad(200,200)}为什么 X5-2 的根能够用根式表示出来
+Dialogue: 4,0:05:23.99,0:05:30.93,WesternFont,,0,0,0,,{\fad(200,200)}et pourquoi le polynôme X^5-2 a des racines qu'on peut exprimer à l'aide de radicaux,
+Dialogue: 3,0:05:23.99,0:05:30.93,Yahei-1280x720,,0,0,0,,{\fad(200,200)}为什么 X^5-2 的根能够用根式表示出来
 Dialogue: 4,0:05:30.93,0:05:34.57,WesternFont,,0,0,0,,{\fad(200,200)}et pas le polynôme X^5-X-2.
 Dialogue: 3,0:05:30.93,0:05:34.57,Yahei-1280x720,,0,0,0,,{\fad(200,200)}以及，为什么 X^5-X-2 就不行
 Dialogue: 4,0:05:35.42,0:05:38.70,WesternFont,,0,0,0,,{\fad(200,200)}La théorie de Gallois permet d'expliquer de façon très profonde le résultat d'Abel
