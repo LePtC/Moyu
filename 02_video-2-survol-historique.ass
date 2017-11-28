@@ -29,8 +29,8 @@ Style: Metadata-Copy,微软雅黑,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:08.56,Metadata,,0,0,0,,{\fad(200,200)}　　　　　　　　 　　KaiserKatze  　 　     LePtC       \n　 Airocéan　方弦          　　 　 KaiserKatze
-Dialogue: 1,0:00:00.00,0:00:08.56,Metadata-Copy,,0,0,0,,{\fad(200,200)}【摸鱼字幕组】　 片源：            　　 　翻译：            　 \n校对：   　　　   、　       　 时间轴：            　　　　
+Dialogue: 2,0:00:00.00,0:00:08.56,Metadata,,0,0,0,,{\fad(200,200)}　　　　　　　　　　　KaiserKatze　　　　LePtC　\n　　　Airocéan　　方弦　　　　　KaiserKatze
+Dialogue: 1,0:00:00.00,0:00:08.56,Metadata-Copy,,0,0,0,,{\fad(200,200)}【摸鱼字幕组】　片源：　　　　　e　翻译：　　C　\n校对：　　　　　、　　　时间轴：　　　　　e
 Dialogue: 4,0:00:00.75,0:00:02.81,Default,,0,0,0,MarginL=30,{\an4\fad(200,0)}巴黎高等师范学校
 Dialogue: 4,0:00:03.46,0:00:04.67,WesternFont,,0,0,0,,{\fad(200,200)}Bonjour.
 Dialogue: 3,0:00:03.46,0:00:04.67,Yahei-1280x720,,0,0,0,,{\fad(200,200)}大家好

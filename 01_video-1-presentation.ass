@@ -29,8 +29,8 @@ Style: Metadata-Copy,微软雅黑,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:08.56,Metadata,,0,0,0,,{\fad(200,200)}　　　　　　　　 　　KaiserKatze  　 　     LePtC       \n　 Airocéan　方弦          　　 　 KaiserKatze
-Dialogue: 1,0:00:00.00,0:00:08.56,Metadata-Copy,,0,0,0,,{\fad(200,200)}【摸鱼字幕组】　 片源：            　　 　翻译：            　 \n校对：   　　　   、　       　 时间轴：            　　　　
+Dialogue: 2,0:00:00.00,0:00:08.56,Metadata,,0,0,0,,{\fad(200,200)}　　　　　　　　　　　KaiserKatze　　　　LePtC　\n　　　Airocéan　　方弦　　　　　KaiserKatze
+Dialogue: 1,0:00:00.00,0:00:08.56,Metadata-Copy,,0,0,0,,{\fad(200,200)}【摸鱼字幕组】　片源：　　　　　e　翻译：　　C　\n校对：　　　　　、　　　时间轴：　　　　　e
 Dialogue: 4,0:00:00.75,0:00:02.81,Default,,0,0,0,MarginL=30,{\an4\fad(200,0)}巴黎高等师范学校
 Dialogue: 4,0:00:03.35,0:00:04.42,WesternFont,,0,0,0,,{\fad(200,200)}Bonjour.
 Dialogue: 3,0:00:03.35,0:00:04.42,Yahei-1280x720,,0,0,0,,{\fad(200,200)}大家好
@@ -146,7 +146,7 @@ Dialogue: 3,0:03:28.49,0:03:30.42,Yahei-1280x720,,0,0,0,,{\fad(200,200)}所有�
 Dialogue: 4,0:03:30.42,0:03:33.97,WesternFont,,0,0,0,,{\fad(200,200)}Un petit peu de ménage, et on voit pour la dernière équation, la plus simple,
 Dialogue: 3,0:03:30.42,0:03:33.97,Yahei-1280x720,,0,0,0,,{\fad(200,200)}清空一下，我们看到对于最后一个方程，是最简单的
 Dialogue: 1,0:03:32.81,0:03:43.89,Special-00-03-33-01,,0,0,0,,{\fad(200,200)}无法表示为根式解
-Dialogue: 0,0:03:32.81,0:03:43.89,Special-00-03-02-01,,0,0,0,,{\fad(200,200)}根式解 
+Dialogue: 0,0:03:32.81,0:03:43.89,Special-00-03-02-01,,0,0,0,,{\fad(200,200)}根式解
 Dialogue: 4,0:03:33.97,0:03:36.30,WesternFont,,0,0,0,,{\fad(200,200)}eh bien que ça je ne sais pas trop qu'en faire,
 Dialogue: 3,0:03:33.97,0:03:36.30,Yahei-1280x720,,0,0,0,,{\fad(200,200)}对于这种情况我不知道该怎么搞
 Dialogue: 4,0:03:36.30,0:03:38.73,WesternFont,,0,0,0,,{\fad(200,200)}c'est ce qui est indiqué par le fait qu'il y recopie de l'équation
@@ -195,7 +195,7 @@ Dialogue: 4,0:04:57.44,0:05:00.77,WesternFont,,0,0,0,,{\fad(200,200)}faisons un 
 Dialogue: 3,0:04:57.44,0:05:00.77,Yahei-1280x720,,0,0,0,,{\fad(200,200)}我们来用一个具体的例子做个练习
 Dialogue: 4,0:05:02.12,0:05:06.22,WesternFont,,0,0,0,,{\fad(200,200)}Alors regardons la première équation, l'équation la plus simple apparemment,
 Dialogue: 3,0:05:02.12,0:05:06.22,Yahei-1280x720,,0,0,0,,{\fad(200,200)}我们看第一个公式，看起来最简单的那个公式
-Dialogue: 4,0:05:06.86,0:05:10.33,WesternFont,,0,0,0,,{\fad(200,200)}on peut utiliser un logiciel de calcul, ou alors on peut anticiper le fait 
+Dialogue: 4,0:05:06.86,0:05:10.33,WesternFont,,0,0,0,,{\fad(200,200)}on peut utiliser un logiciel de calcul, ou alors on peut anticiper le fait
 Dialogue: 3,0:05:06.86,0:05:10.33,Yahei-1280x720,,0,0,0,,{\fad(200,200)}我们可以用软件来算，或者我们可以算它的伽罗瓦群，
 Dialogue: 4,0:05:10.33,0:05:13.85,WesternFont,,0,0,0,,{\fad(200,200)}qu'on a suivi ce MOOC de théorie de Galois et qu'on est capable de calculer les groupes de Galois,
 Dialogue: 3,0:05:10.33,0:05:13.85,Yahei-1280x720,,0,0,0,,{\fad(200,200)}因为我们知道这门慕课课程就是讲这个的 (= = !
